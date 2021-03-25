@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`2. captains-log 1`] = `
+"
+console.log('sup dawg')
+
+      ↓ ↓ ↓ ↓ ↓ ↓
+
+console.log('1:0', 'sup dawg');
+"
+`;

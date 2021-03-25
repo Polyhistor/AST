@@ -1,0 +1,7 @@
+node_modules
+.idea
+*.ignored.*
+.opt-in
+.opt-out
+coverage/
+exercises/

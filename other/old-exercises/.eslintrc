@@ -1,0 +1,12 @@
+// COMMENT_START
+// this is useful because the templates have some weird "code" in them...
+// COMMENT_END
+{
+  "rules": {
+    // COMMENT_START
+    "jest/no-identical-title": "off",
+    "no-redeclare": "off",
+    "no-dupe-keys": "off",
+    // COMMENT_END
+  }
+}

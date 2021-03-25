@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`2. ymnn-jquery 1`] = `
+"
+$(el).hide();
+
+      ↓ ↓ ↓ ↓ ↓ ↓
+
+el.style.display = 'none';
+"
+`;

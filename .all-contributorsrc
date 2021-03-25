@@ -1,0 +1,63 @@
+{
+  "projectName": "asts-workshop",
+  "projectOwner": "kentcdodds",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "kentcdodds",
+      "name": "Kent C. Dodds",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1500684?v=3",
+      "profile": "https://kentcdodds.com",
+      "contributions": [
+        "code",
+        "doc",
+        "infra",
+        "test"
+      ]
+    },
+    {
+      "login": "tigermarques",
+      "name": "João Marques",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/15315098?v=3",
+      "profile": "https://github.com/tigermarques",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "mstaicu",
+      "name": "Mircea Staicu",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/999432?v=4",
+      "profile": "https://github.com/mstaicu",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    },
+    {
+      "login": "sis0k0",
+      "name": "Stanimira Vlaeva",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/7893485?v=4",
+      "profile": "https://twitter.com/StanimiraVlaeva",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "jdorfman",
+      "name": "Justin Dorfman",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/398230?v=4",
+      "profile": "https://stackshare.io/jdorfman/decisions",
+      "contributions": [
+        "fundingFinding"
+      ]
+    }
+  ],
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "contributorsPerLine": 7
+}

@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`2. captains-log 1`] = `
+"
+console.log('sup dawg')
+
+      ↓ ↓ ↓ ↓ ↓ ↓
+
+console.log('1:0', 'sup dawg');
+"
+`;
+
+exports[`3. captains-log 1`] = `
+"
+function add(a, b) {
+  console.log(a, b)
+  return a + b
+}
+
+      ↓ ↓ ↓ ↓ ↓ ↓
+
+function add(a, b) {
+  console.log(\\"add 2:2\\", a, b);
+  return a + b;
+}
+"
+`;
+
+exports[`4. captains-log 1`] = `
+"
+const multiply = (a, b) => {
+  console.log(a, b)
+  return a * b
+}
+
+      ↓ ↓ ↓ ↓ ↓ ↓
+
+const multiply = (a, b) => {
+  console.log(\\"multiply 2:2\\", a, b);
+  return a * b;
+};
+"
+`;
